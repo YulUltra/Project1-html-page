@@ -1,0 +1,12 @@
+body, div {
+    background-color: #FFE4E1;
+}
+
+h1, h2, h3, h4 {
+    color:  #FFFFFF;
+    background-color: black;
+}
+
+a {
+    display: table-caption;
+}
